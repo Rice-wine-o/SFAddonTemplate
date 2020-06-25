@@ -1,3 +1,21 @@
+# SpaceFun
+An open source slimefun expansion
+
+## Scope
+SpaceFun will add more advanced GPS networks
+Add spaceships with support for movecraft (hopefully!)
+Use multiverse API to add places to fly
+Overhaul the existing "chest terminal" add-on
+
+
+## dependencies
+ - slimefun4
+ - multiverse-core
+ - worldedit (for crash landing generation)
+ - movecraft
+
+--
+
 # Slimefun4 Addon
 This is an example Repository for a generic Slimefun4 Addon.
 In the top left is a button "Use this template", click this to create your own Addon for Slimefun4 using this basic template.
