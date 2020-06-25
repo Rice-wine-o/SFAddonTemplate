@@ -11,17 +11,19 @@
  - Geo Scanner - PDA/GPS model rather than clock 
 
 ### GPS
- - Add LONS mainframe (reskinned iron block)
- - Redescribe as Low Orbit Navigational Satellite
- - Minimum height y=248 
+ - Rework into Low Orbit Navigational Satellite
  - Change to multiblock with solar panels on sides
+ - Minimum height y=248 
+ 
+### High Earth Orbit Satellite 
+ - Add HEO mainframe (reskinned iron block)
 
 ### Chest terminal
  - Wireless chest terminal renamed to local wireless CT, more expensive
  - Wireless access terminal now scales on complexity, limited to planets with Low Orbit Navigation Systems
  - Earth/Moon item transport requires 16 high earth orbit satellites
  - Local solar system item transport network requires 32-128 heliocentric orbit satellites (per jump, max 4 AU/jump)
- - Transdimensional access terminal requires 16 transdimensional satellites in the Alpha dimen
+ - Transdimensional access terminal requires 16 transdimensional satellites in the Alpha dimension
 
 ## New items/blocks
 
