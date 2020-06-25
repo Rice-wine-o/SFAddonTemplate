@@ -15,9 +15,6 @@
  - Change to multiblock with solar panels on sides
  - Minimum height y=248 
  
-### High Earth Orbit Satellite 
- - Add HEO mainframe (reskinned iron block)
-
 ### Chest terminal
  - Wireless chest terminal renamed to local wireless CT, more expensive
  - Wireless access terminal now scales on complexity, limited to planets with Low Orbit Navigation Systems
@@ -72,26 +69,6 @@ Requires:
 Optional:
  - Chest terminal relay (requires teleportation relay)
  - Navigation relay
-
-
-### high earth/solar orbit satellites
-Multiblock structures in various worlds (high earth orbit, various solar orbit intervals)
-Power system, module system
-
-### GPS 
-High earth orbit GPS satellites - allow earth/moon communication
-
-Requires:
-- Satellite mainframe (connected to frame, acts as energy regulator & cargo manager)
-- Solar panels
-- Satellite frame pieces (act as capacitors/connector nodes)
-- Docking latch
-- Control panel
-
-Optional:
- - Chest terminal relay (requires teleportation relay)
- - Navigation relay
-
 
 ### Space travel
 Fuel items (cells?)
