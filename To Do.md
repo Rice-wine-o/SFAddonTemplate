@@ -11,7 +11,7 @@
  - Geo Scanner - PDA/GPS model rather than clock 
 
 ### GPS
- - Add GPS mainframe (reskinned iron block)
+ - Add LONS mainframe (reskinned iron block)
  - Redescribe as Low Orbit Navigational Satellite
  - Minimum height y=248 
  - Change to multiblock with solar panels on sides
