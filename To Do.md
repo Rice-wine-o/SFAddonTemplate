@@ -1,6 +1,10 @@
 # To do list
 ## Changes
+----------
 # Power requirements need total reworks
+----------
+# Many Slimefun Items are heads that should be changed to blocks/multiblocks 
+----------
 ### Reskinned/revised blocks
  - GPS transmitter - Remodel with sunflower upper model, satellite dish texture
 
