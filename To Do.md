@@ -1,7 +1,6 @@
 # To do list
-
 ## Changes
-
+# Power requirements need total reworks
 ### Reskinned/revised blocks
  - GPS transmitter - Remodel with sunflower upper model, satellite dish texture
 
@@ -24,8 +23,32 @@
 
 ## New items/blocks
 
+### Resources
+#### Bismuth
+ - Found on the moon
+ - Emits very weak radioactivity (undetectable without advanced gear)
+ - Used to make Polonium-210 via neutron bombardment in a Nuclear Breeder Reactor
+#### Polonium-210
+#### Enhanced Polonium-210
+ - Alloy of Blistering ingot & Polonium-210
+#### Plutonium-238
+ - created via deuterium bombardment of Uranium-238
+#### Enhanced Plutonium-238
+ - Alloy of Blistering ingot & Polonium-210
 ### Power
- - 238 Reactor - fuelled by Plutonium 238 (64 J/s, irradiates area unless surrounded by water, lasts 3 Minecraft weeks)
+#### Nuclear Breeder Reactor
+ - Actually just an extended vanilla SF reactor
+ - Add ability to charge fuels (Bismuth - 210Po)
+#### Alpha Reactor 
+ - Fuelled by alpha-emitters (Polonium-210, Plutonium-238)
+ 
+|Fuel|Duration|Output|Total|
+|--|--|--|--|
+|Polonium-210|24hr/1728000 ticks|32 J/s|2.7648 MJ|
+|Enhanced Polonium-210|3hr/216000 ticks|320J/s|3.456 MJ|
+|Plutonium-238|28d/41472000 ticks|16J/s|33.1776 MJ|
+|Enhanced Plutonium-238|84hr/6048000 ticks|160J/s|48.384 MJ|
+ 
 
 ### Fuel items
  - Fuel cell
@@ -69,7 +92,3 @@ Requires:
 Optional:
  - Chest terminal relay (requires teleportation relay)
  - Navigation relay
-
-### Space travel
-Fuel items (cells?)
-Rocketry parts (fuselage, aerodynamics, engines, life support, etc.)
